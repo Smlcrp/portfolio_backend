@@ -9,12 +9,12 @@
       "name": "Closed Ocean",
       "live": "https://app.netlify.app/whatever",
       "git": "https://git.generalassemb.ly/smlcrp/closedOcean",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/57FRNXT"
     },
     {
         "name": "Wayfarer",
         "live": "https://app.netlify.app/whatever",
         "git": "https://git.generalassemb.ly/smlcrp/Wayfarer_Project",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "image": "https://imgur.com/0PtBftS"
     }
   ]
