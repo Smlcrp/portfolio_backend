@@ -3,18 +3,18 @@
       "name": "Checkers",
       "live": "https://pages.git.generalassemb.ly/smlcrp/Checkers/",
       "git": "https://git.generalassemb.ly/smlcrp/Checkers",
-      "image": "https://imgur.com/P5DKxgl"
+      "image": "https://imgur.com/P5DKxgl.png"
     },
     {
       "name": "Closed Ocean",
       "live": "https://app.netlify.app/whatever",
       "git": "https://git.generalassemb.ly/smlcrp/closedOcean",
-      "image": "https://imgur.com/57FRNXT"
+      "image": "https://imgur.com/57FRNXT.png"
     },
     {
         "name": "Wayfarer",
         "live": "https://app.netlify.app/whatever",
         "git": "https://git.generalassemb.ly/smlcrp/Wayfarer_Project",
-        "image": "https://imgur.com/0PtBftS"
+        "image": "https://imgur.com/0PtBftS.png"
     }
   ]
